@@ -7,14 +7,13 @@
 
 - Nama saya Riron
 - Saya 20 Tahun
-- Saya masih pemula
+- Saya masih sangat pemula
 - Saya bukan wibu
-- Saya bukan programmer
 </p>
 
 ---
 
-## `FOLLOW SEMUA SOSIALMEDIA SAYA`
+## `FOLLOW SEMUA SOSIAL MEDIA SAYA`
 
 <p align="center">
 <a href="https://www.instagram.com/l0038379550l"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
